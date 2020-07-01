@@ -1,0 +1,52 @@
+h1  {
+    text-align: center;
+    color: #162845;
+    font-size: 36px;
+}
+
+h2  {
+    text-indent: 20px;
+    color: #472c70;
+    font-size: 28px;
+}
+
+p   {
+    text-indent: 35px;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 0px 50px;
+}
+
+a   {
+    color: #398249;
+    text-decoration: none;
+}
+
+ul  {
+    font-size: 20px;
+}
+
+img  {
+    display: block;
+    border: 5px double;
+    margin: 0px auto;
+}
+
+#container  {
+    background-color: #a1a86d;
+    border: 10px double;
+    padding: 25px;
+}
+
+.media  {
+    float: left;
+    text-align: center;
+    padding-left: 20%;
+    margin: 0px auto;
+}
+
+.imgcomment {
+    text-align: center;
+    font-size: 14px;
+    padding: 0px 0px 10px;
+}
