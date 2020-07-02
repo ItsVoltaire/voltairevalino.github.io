@@ -1,0 +1,157 @@
+nav {
+    font-size: 25px;
+    background-color: plum;
+    border-radius: 20px;
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0px auto;
+    padding: 0;
+    overflow: hidden;
+
+
+}
+
+li {
+    float: left;
+}
+
+.chosen {
+    color: white;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 4px 86px;
+    text-decoration: none;
+
+}
+
+li a:hover {
+    background-color: lightpink;
+}
+
+.imgc {
+
+    padding: 15px;
+    margin-bottom: 15px;
+
+
+}
+
+
+
+}
+
+h1 {
+    font-size: 25px;
+    color: white;
+    font-family: 'Pangolin', cursive;
+}
+
+h2 {
+    text-align: center;
+    background-color: plum;
+    font-family: 'Pangolin', cursive;
+    padding: 5px;
+    font-size: 24pt;
+    width: 350px;
+    border-radius: 10px
+}
+
+h3 {
+    font-size: 16pt;
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+    text-align: center;
+    background-color: plum;
+    font-family: 'Pangolin', cursive;
+    margin: 10px auto;
+    border-radius: 5px;
+    width: 300px;
+}
+
+h4 {
+
+    background-color: plum;
+    font-family: 'Pangolin', cursive;
+    width: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+
+}
+
+h5 {
+    font-family: 'Pangolin', cursive;
+    font-size: 40pt;
+    text-align: center;
+    background-color: #7EB255;
+    border-radius: 20px;
+    width: 500px;
+    margin: 40px auto;
+    
+}
+
+p {
+    margin: 10px 50px;
+    padding: 10px;
+    font-size: 18px
+}
+
+
+footer {
+    background-color: #7EB255;
+    text-align: center;
+    border-radius: 30px;
+    width: 500px;
+    padding: 5pt;
+    margin: 15px auto 0px;
+    
+}
+
+
+#container {
+    background-color: white;
+    padding: 44px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    margin: auto;
+    border-radius: 50px;
+}
+
+#splash {
+    background-image: url(paintbrush.png);
+    background-size: cover;
+    height: 25%;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.floatright {
+    float: right;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.floatleft {
+    float: left;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+article {
+    margin-bottom: 49px;
+    margin-top: 49px;
+}
